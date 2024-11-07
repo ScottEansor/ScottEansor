@@ -27,6 +27,9 @@
 - **Backend Development**: Node.js, MongoDB, Express
 - **Responsive Design**: CSS, Flexbox
 - **Version Control**: Git, GitHub
+- Other:  - Captain of championship winning professional hockey team. (leadership, public speaking, media and communication skills)
+          - Adobe Premiere video editing
+          - Microsoft suite knowledge
 
 ---
 
