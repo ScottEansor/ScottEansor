@@ -12,15 +12,12 @@
 - **Backend**: Node.js, Express, MongoDB
 - **Tools**: Git, GitHub, VS Code, Vite, worked with numerous APIs
 
----
-
 ### 🚀 Projects
-- **[wsc-attendance-2](#)**: First professionally used app, an attendance app that tracks ski team attendance and data for the Winter Sports Club in Steamboat, CO.
-- **[secondHomePage](#)**: Built a full-stack, locally run app to aid in my studies, fully in vanilla JS, CSS, and HTML, using MongoDB, Node.js, and Express.js.
-- **[hockey-website](#)**: Constantly improving my business website for hockey scheduling and showcasing what I offer from my post-professional hockey career.
-- **[50Projects](#)**: Built 50 mini-projects to solidify my understanding of full-stack development. This was my favorite study tool for me.
+- **[wsc-attendance-2](https://github.com/ScottEansor/wsc-attendance-2)**: First professionally used app, an attendance app that tracks ski team attendance and data for the Winter Sports Club in Steamboat, CO.
+- **[secondHomePage](https://github.com/ScottEansor/secondHomePage)**: Built a full-stack, locally run app to aid in my studies, fully in vanilla JS, CSS, and HTML, using MongoDB, Node.js, and Express.js.
+- **[hockey-website](https://github.com/ScottEansor/hockey-website)**: Constantly improving my business website for hockey scheduling and showcasing what I offer from my post-professional hockey career.
+- **[50Projects](https://github.com/ScottEansor/50Projects)**: Built 50 mini-projects to solidify my understanding of full-stack development. This was my favorite study tool for me and was done through Brad Traversy's course on Udemy along with his JS course from beginner to pro.
 
----
 
 ### 🛠️ Skills
 - **Frontend Development**: React, JavaScript, Bootstrap
