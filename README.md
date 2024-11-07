@@ -45,7 +45,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Scott’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Scott’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottEansor&show_icons=true&theme=radical)
+
 
 ---
 
