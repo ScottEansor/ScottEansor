@@ -18,7 +18,7 @@
 - **[wsc-attendance-2](#)**: First professionally used app, an attendance app that tracks ski team attendance and data for the Winter Sports Club in Steamboat, CO.
 - **[secondHomePage](#)**: Built a full-stack, locally run app to aid in my studies, fully in vanilla JS, CSS, and HTML, using MongoDB, Node.js, and Express.js.
 - **[hockey-website](#)**: Constantly improving my business website for hockey scheduling and showcasing what I offer from my post-professional hockey career.
-- **[50Projects](#)**: Built 50 mini-projects to solidify my understanding of full-stack development. This was an invaluable study tool for me.
+- **[50Projects](#)**: Built 50 mini-projects to solidify my understanding of full-stack development. This was my favorite study tool for me.
 
 ---
 
