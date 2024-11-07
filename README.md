@@ -45,10 +45,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Scott’s Total Commits](https://github-readme-stats.vercel.app/api?username=ScottEansor&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical)
+![Scott’s Total Commits](https://github-readme-stats.vercel.app/api?username=ScottEansor&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottEansor&layout=compact&theme=radical)
-
-
 
 
 
