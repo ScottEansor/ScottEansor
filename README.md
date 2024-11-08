@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About Me 😎
-- My name is Scott Eansor, and I’m a Full Stack Web Developer with a passion for frontend development. I honed my skills through a rigorous 10-month bootcamp at SDSU and additional self-directed study on platforms like Udemy. With consistent guidance from my mentor, Tim Metcalf (20+ years in the industry), I’ve built a solid foundation as a developer.
+- My name is Scott Eansor, and I’m a Full Stack Web Developer with a passion for frontend development. I honed my skills through a rigorous 10-month bootcamp at SDSU and additional self-directed study on platforms like Udemy. With consistent guidance from my mentor, Tim Metcalfe (20+ years in the industry), I’ve built a solid foundation as a developer.
 - Over the past two years, I’ve balanced coding practice with running a hockey skills business, coaching skiing, and taking on various jobs to fuel my goal of becoming a professional developer. I’m excited to bring my dedication and unique perspective to new challenges in the tech industry.
 
 ---
