@@ -12,29 +12,34 @@
 - **Backend**: Node.js, Express, MongoDB
 - **Tools**: Git, GitHub, VS Code, Vite, worked with numerous APIs
 
+---
+
 ### 🚀 Projects
 - **[wsc-attendance-2](https://github.com/ScottEansor/wsc-attendance-2)**: First professionally used app, an attendance app that tracks ski team attendance and data for the Winter Sports Club in Steamboat, CO.
 - **[secondHomePage](https://github.com/ScottEansor/secondHomePage)**: Built a full-stack, locally run app to aid in my studies, fully in vanilla JS, CSS, and HTML, using MongoDB, Node.js, and Express.js.
 - **[hockey-website](https://github.com/ScottEansor/hockey-website)**: Constantly improving my business website for hockey scheduling and showcasing what I offer from my post-professional hockey career.
 - **[50Projects](https://github.com/ScottEansor/50Projects)**: Built 50 mini-projects to solidify my understanding of full-stack development. This was my favorite study tool for me and was done through Brad Traversy's course on Udemy along with his JS course from beginner to pro.
 
+---
 
 ### 🛠️ Skills
 - **Frontend Development**: React, JavaScript, Bootstrap
-- **Backend Development**: Node.js, MongoDB, Express
+- **Backend Development**: Node.js, MongoDB, Express, AWS
 - **Responsive Design**: CSS, Flexbox
 - **Version Control**: Git, GitHub
-- Other:  - Captain of championship winning professional hockey team. (leadership, public speaking, media and communication skills)
-- Adobe Premiere video editing
-- Microsoft suite knowledge
+- **Other Skills**:  
+  - Captain of championship-winning professional hockey team (leadership, public speaking, media and communication skills)  
+  - Adobe Premiere video editing  
+  - Microsoft Suite knowledge  
 
 ---
 
 ### 📜 Certifications
-- **SDSU Full Stack Web Development Bootcamp** (10 months)
-- Udemy Courses on JavaScript, React, Bootstrap, and 100+ practice projects ranging from full-stack applications to mini-projects
-- **Mentored consistently by a senior developer** with 20+ years of experience for 2 years
-- Continuously self-motivated and self-taught
+- **SDSU Full Stack Web Development Bootcamp** (10 months)  
+- **50 Projects in 50 Days - HTML, CSS & JavaScript** (19 total hours)  
+- **Modern JavaScript From The Beginning 2.0 (2024)** (36.5 total hours)  
+- **Mentored consistently by a senior developer** with 20+ years of experience for 2 years  
+- Continuously self-motivated and self-taught  
 
 ---
 
@@ -45,24 +50,18 @@
 ---
 
 ### 📊 GitHub Stats
-![Scott’s Total Commits](https://github-readme-stats.vercel.app/api?username=ScottEansor&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical&hide_rank=true)
+![Scott’s Total Commits](https://github-readme-stats.vercel.app/api?username=ScottEansor&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical&hide_rank=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottEansor&layout=compact&theme=radical)
-
-
 
 ---
 
 ### 🎨 Interests
-- Retired professional hockey player, signed in the NHL and bronze medalist for Team USA 🏒
-- Volunteer for local hockey programs 🏒
-- Big Air, Park, and SuperPipe coach for skiing in Steamboat Springs, CO ⛷️
-- Photography and video editing 📸
-- Dog dad to two labs 🐶
+- Retired professional hockey player, signed in the NHL and bronze medalist for Team USA 🏒  
+- Volunteer for local hockey programs 🏒  
+- Big Air, Park, and SuperPipe coach for skiing in Steamboat Springs, CO ⛷️  
+- Photography and video editing 📸  
+- Dog dad to two labs 🐶  
 
----
-
-This version keeps the layout clear, includes all the information you provided, and maintains a professional yet personal tone. Adjust any part to fit your personality and add links to projects when they’re ready!
-<!--
 **ScottEansor/ScottEansor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
