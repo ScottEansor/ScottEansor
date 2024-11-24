@@ -36,8 +36,14 @@
 
 ### 📜 Certifications
 - **SDSU Full Stack Web Development Bootcamp** (10 months)  
+  <img src="https://github.com/user-attachments/assets/89b847d7-f1f4-4f26-beef-c3c5179b7b36" alt="SDSU Certification" width="400">  
+
 - **50 Projects in 50 Days - HTML, CSS & JavaScript** (19 total hours)  
+  <img src="https://github.com/user-attachments/assets/3aeed5e8-8423-4b94-b792-4a8dac0a17b4" alt="50 Projects Certification" width="400">  
+
 - **Modern JavaScript From The Beginning 2.0 (2024)** (36.5 total hours)  
+  <img src="https://github.com/user-attachments/assets/1c2716bd-82f4-4efb-a86f-49ba5f657a43" alt="Modern JavaScript Certification" width="400">  
+
 - **Mentored consistently by a senior developer** with 20+ years of experience for 2 years  
 - Continuously self-motivated and self-taught  
 
